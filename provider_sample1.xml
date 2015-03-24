@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Provider Name="Rogers Scarborough" >
+	<Stations>
+		<Station Image="global.png" Name="Global" Channel="3" />
+		<Station Image="cbc.png" Name="CBC" Channel="6" />
+		<Station Image="city_tv.png" Name="City TV" Channel="7" />
+		<Station Image="ctv.png" Name="CTV" Channel="8" />
+		<Station Image="twn.png" Name="Weather Network" Channel="22" />
+		<Station Image="cbc_news_network.png" Name="CBC News" Channel="23" />
+		<Station Image="cp24.png" Name="CP24" Channel="24" />
+		<Station Image="tsn4.png" Name="TSN 4" Channel="26" />
+		<Station Image="sportsnet_ontario.png" Name="Sportsnet Ontario" Channel="32" />
+		<Station Image="cnn.png" Name="CNN" Channel="33" />
+		<Station Image="sportsnet_360.png" Name="Sportsnet 360" Channel="44" />
+		<Station Image="sportsnet_east.png" Name="Sportsnet East" Channel="74" />
+		<Station Image="sportsnetwest.png" Name="Sportsnet West" Channel="75" />
+		<Station Image="sportsnet_pacific.png" Name="Sportsnet Pacific" Channel="76" />
+		<Station Image="nfl_network.png" Name="NFL Network" Channel="77" />
+		<Station Image="golf_channel.png" Name="Golf Channel" Channel="78" />
+		<Station Image="nba_tv.png" Name="NBA TV" Channel="96" />
+		<Station Image="leafs_tv.png" Name="Leafs TV" Channel="97" />
+		<Station Image="tsn2.png" Name="TSN 2" Channel="98" />
+		<Station Image="sportsnet_one.png" Name="Sportsnet One" Channel="99" />
+		<Station Image="bnn.png" Name="BNN" Channel="186" />
+		<Station Image="bloomberg_tv.png" Name="Bloomberg TV" Channel="187" />
+		<Station Image="bbc_world.png" Name="BBC World News" Channel="194" />
+		<Station Image="sportsnet_world.png" Name="Sportsnet World" Channel="370" />
+		<Station Image="sportsnet_ontario.png" Name="Sportsnet Ontario" Channel="371" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="372" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="373" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="374" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="375" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="376" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="377" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="378" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="379" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="380" />
+		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="381" />
+		<Station Image="nfl_rezone.png" Name="NFL Red Zone HD" Channel="390" />
+		<Station Image="bein_sports.png" Name="BeIN Sports" Channel="391" />
+		<Station Image="bein_sports_es.png" Name="BeIN Sports en Español" Channel="392" />
+		<Station Image="sportsnet_one.png" Name="Sportsnet One" Channel="394" />
+		<Station Image="sportsnet_one_hd.png" Name="Sportsnet One HD" Channel="395" />
+		<Station Image="sportsnet_ontario_hd.png" Name="Sportsnet Ontario HD" Channel="398" />
+		<Station Image="sportsnet_east_hd.png" Name="Sportsnet East HD" Channel="399" />
+		<Station Image="sportsnet_west_hd.png" Name="Sportsnet West HD" Channel="400" />
+		<Station Image="sportsnet_pacific_hd.png" Name="Sportsnet Pacific HD" Channel="401" />
+		<Station Image="sportsnet_ontario.png" Name="Sportsnet Ontario" Channel="402" />
+		<Station Image="sportsnet_east.png" Name="Sportsnet East" Channel="403" />
+		<Station Image="sportsnet_west.png" Name="Sportsnet West" Channel="404" />
+		<Station Image="sportsnet_pacific.png" Name="Sportsnet Pacific" Channel="405" />
+		<Station Image="tsn4.png" Name="TSN 4" Channel="406" />
+		<Station Image="tsn2.png" Name="TSN 2" Channel="407" />
+		<Station Image="big_ten_network.png" Name="Big Ten Network" Channel="408" />
+		<Station Image="golf_channel.png" Name="Golf Channel" Channel="410" />
+		<Station Image="sportsnet_360.png" Name="Sportsnet 360" Channel="411" />
+		<Station Image="oln.png" Name="OLN" Channel="412" />
+		<Station Image="nba_tv.png" Name="NBA TV Canada" Channel="413" />
+		<Station Image="leafs_tv.png" Name="Leafs TV" Channel="414" />
+		<Station Image="mlb.png" Name="MLB Network" Channel="415" />
+		<Station Image="cbs_sports.png" Name="CBS Sports Network" Channel="416" />
+		<Station Image="espn_classic.png" Name="ESPN Classic" Channel="417" />
+		<Station Image="nhl_network.png" Name="NHL Network" Channel="418" />
+		<Station Image="nfl_network.png" Name="NFL Network" Channel="419" />
+		<Station Image="euroworld_sports.png" Name="EuroWorld Sports" Channel="425" />
+		<Station Image="world_fishing_network.png" Name="World Fishing Network" Channel="426" />
+		<Station Image="fight_network.png" Name="Fight Network" Channel="427" />
+		<Station Image="goltv.png" Name="GolTV Canada" Channel="428" />
+		<Station Image="sportsnet_world.png" Name="Sportsnet World" Channel="429" />
+		<Station Image="nfl_network.png" Name="NFL Network On Demand" Channel="430" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="431" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="432" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="433" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="434" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="435" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="436" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="437" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="438" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="439" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="440" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="441" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="442" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="443" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="444" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="445" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="446" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="447" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="448" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="449" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="450" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="451" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="452" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="453" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="454" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="455" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="456" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="457" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="458" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="459" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="460" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="461" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="462" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="463" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="464" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="465" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="466" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="467" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="468" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="469" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="470" />
+		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="471" />
+		<Station Image="fight_network_hd.png" Name="Fight Network HD" Channel="475" />
+		<Station Image="cp24_hd.png" Name="CP24 HD" Channel="476" />
+		<Station Image="tsn1.png" Name="TSN 1" Channel="494" />
+		<Station Image="tsn2.png" Name="TSN 2" Channel="495" />
+		<Station Image="tsn3.png" Name="TSN 3" Channel="496" />
+		<Station Image="tsn4.png" Name="TSN 4" Channel="497" />
+		<Station Image="tsn5.png" Name="TSN 5" Channel="498" />
+		<Station Image="leafs_tv_hd.png" Name="Leafs TV HD" Channel="499" />
+		<Station Image="sportsnet.png" Name="Sportsnews HD" Channel="500" />
+		<Station Image="sportsnet_ontario_hd.png" Name="Sportsnet Ontario HD" Channel="501" />
+		<Station Image="sportsnet_one_hd.png" Name="Sportsnet One HD" Channel="502" />
+		<Station Image="sportsnet_360.png" Name="Sportsnet 360 HD" Channel="503" />
+		<Station Image="sportsnet_east_hd.png" Name="Sportsnet East HD" Channel="504" />
+		<Station Image="sportsnet_west_hd.png" Name="Sportsnet West HD" Channel="505" />
+		<Station Image="sportsnet_pacific_hd.png" Name="Sportsnet Pacific HD" Channel="506" />
+		<Station Image="nhl_network.png" Name="NHL Network" Channel="508" />
+		<Station Image="nba_tv.png" Name="NBA TV Canada HD" Channel="511" />
+		<Station Image="wwe.png" Name="WWE Network" Channel="512" />
+		<Station Image="golf_channel_hd.png" Name="Golf Channel HD" Channel="513" />
+		<Station Image="nfl_network_hd.png" Name="NFL Network HD" Channel="549" />
+		<Station Image="sportsnet_world_hd.png" Name="Sportsnet World HD" Channel="569" />
+	</Stations>
+</Provider>
