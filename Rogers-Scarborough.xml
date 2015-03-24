@@ -13,7 +13,7 @@
 		<Station Image="cnn.png" Name="CNN" Channel="33" />
 		<Station Image="sportsnet_360.png" Name="Sportsnet 360" Channel="44" />
 		<Station Image="sportsnet_east.png" Name="Sportsnet East" Channel="74" />
-		<Station Image="sportsnetwest.png" Name="Sportsnet West" Channel="75" />
+		<Station Image="sportsnet_west.png" Name="Sportsnet West" Channel="75" />
 		<Station Image="sportsnet_pacific.png" Name="Sportsnet Pacific" Channel="76" />
 		<Station Image="nfl_network.png" Name="NFL Network" Channel="77" />
 		<Station Image="golf_channel.png" Name="Golf Channel" Channel="78" />
@@ -36,7 +36,7 @@
 		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="379" />
 		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="380" />
 		<Station Image="sportsnet.png" Name="Sportsnet World Plus" Channel="381" />
-		<Station Image="nfl_rezone.png" Name="NFL Red Zone HD" Channel="390" />
+		<Station Image="nfl_redzone.png" Name="NFL Red Zone HD" Channel="390" />
 		<Station Image="bein_sports.png" Name="BeIN Sports" Channel="391" />
 		<Station Image="bein_sports_es.png" Name="BeIN Sports en Español" Channel="392" />
 		<Station Image="sportsnet_one.png" Name="Sportsnet One" Channel="394" />
@@ -65,7 +65,7 @@
 		<Station Image="euroworld_sports.png" Name="EuroWorld Sports" Channel="425" />
 		<Station Image="world_fishing_network.png" Name="World Fishing Network" Channel="426" />
 		<Station Image="fight_network.png" Name="Fight Network" Channel="427" />
-		<Station Image="goltv.png" Name="GolTV Canada" Channel="428" />
+		<Station Image="GolTV.png" Name="GolTV Canada" Channel="428" />
 		<Station Image="sportsnet_world.png" Name="Sportsnet World" Channel="429" />
 		<Station Image="nfl_network.png" Name="NFL Network On Demand" Channel="430" />
 		<Station Image="rogers.png" Name="Rogers Super Sports Pack" Channel="431" />
